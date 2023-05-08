@@ -1,2 +1,2 @@
-# ejemplo-git-pull
-git pull para practicar
+#  cambio realizado de PULL
+rEPOSITORIO PARA CAMBIAR  EL COMANDO  GIT PULL
